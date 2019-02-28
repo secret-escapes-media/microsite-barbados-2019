@@ -1,0 +1,39 @@
+- title: "Here goes title"
+  id: sarasota
+  location: Here goes location
+  description: Here goes description
+  price: 85
+  price-description: pro Unterkunft pro Nacht
+  saved: 62
+  image: img.jpg
+  link: #
+
+- title: "Here goes title"
+  id: naples
+  location: Here goes location
+  description: Inkl. Frühstück oder Halbpension &amp; Begrüßungsgetränk
+  price: 105
+  price-description: pro Zimmer pro Nacht
+  saved: 71
+  image: img.jpg
+  link: #
+
+- title: "Here goes title"
+  id: florida-keys
+  location: Here goes location
+  description: Here goes description
+  price: 229
+  price-description: pro Suite pro Nacht
+  saved: 46
+  image: img.jpg
+  link: #
+
+- title: "Here goes title"
+  id: stpete-clearwater
+  location: Here goes location
+  description: Here goes description
+  price: 118
+  price-description: pro Zimmer pro Nacht
+  saved: 36
+  image: img.jpg
+  link: #
