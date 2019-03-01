@@ -1,0 +1,25 @@
+- id: one
+  title: "Local Kitchen"
+  img: bg-img1
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+
+
+
+################################################################################
+
+
+- id: two
+  title: "Fine Dining"
+  img: bg-img2
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+
+
+
+
+################################################################################
+
+
+- id: three
+  title: "Heimat des Rums"
+  img: bg-img3
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "

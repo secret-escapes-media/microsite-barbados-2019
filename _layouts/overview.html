@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-<div class=" vpad--xl " >
+<div class=" vpad--xxl {{page.colour}} " id="top" >
   <div class="container">
-    <div class="width width--xl  text--left text  " >
+    <div class="width width--xl  text--left text text--white " >
 
        <div class="text--xl">{{page.intro}}</div>
        <div class="space--md"></div>
@@ -13,100 +13,27 @@ layout: default
   </div>
 </div>
 
-<div class="harvey pt-mob-hide bg--f-lightblue" >
-
-  <!-- Preview Popups /-->
-
-
-  <div class="harvey__img  pt-show" class="pt-preview" id="pt-preview-0">
-  <div class="serif-title serif-title--lg text--white bv-preview-default" >{{page.map-title}}</div>
-      <div  class=" bv-preview-wrapper bg--white bv-box-shadow" >
-
-        <div class="text text--xxl text--left boxpad--xl"  >Um ausgewählte Highlights zu sehen, klicken Sie mit der Maus auf die roten Regionen auf der Karte.</div>
-        <div class="space--xs"></div>
-      </div>
-  </div>
-
-  {% for popup in page.map-popup %}
-
-    <div class="harvey__img pt-hidden text" id="pt-preview-{{popup.id}}">
-
-      <div class="serif-title serif-title--lg text--white bv-preview-default">{{page.map-title}}</div>
-      <a href="{{site.baseurl}}/{{popup.region}}">
-        <div class="bv-preview-wrapper bv-box-shadow bg--white" >
-          <div class="bg-img bg-img--21-9" style="background-image: url('{{site.img}}/content/{{popup.region}}/hero.jpg'); ">
-              <div class="bg-img__content">
-                <div class="serif-title serif-title--md ">{{popup.title}}</div>
-              </div>
-          </div>
-          <div class="space--xxs"></div>
-          <div class="text--md text--black boxpad--lg" >{{popup.content}} <span class="text--red text--bold">Jetzt&nbsp;entdecken!</span></div>
-          <div class="space--xxs"></div>
-        </div>
-      </a>
-    </div>
-
-  {% endfor %}
 
 
 
 
 
-
-  <!-- Map /-->
-  <div class="bob__text ">
-
-
-    <div class="" style=" width:100%; max-width:600px; height:auto; float: right; margin-right:10%;">
-
-
-{% include page/map/map.html %}
-
-<div class="space--xl"></div>
-
-  </div>
-
-  </div>
-</div>
-
-
-
-
-
-<script>
-var total = 4;
-total = document.getElementsByClassName("bv-box-shadow");
-
-function toggle(n){
-
-	for(i = 0; i<= total.length; i++){
-		document.getElementById('pt-preview-'+i).style.display ="none";
-		if (i == n){
-			document.getElementById('pt-preview-'+n).style.display ="block";
-		}
-	}
-}
-
-</script>
-
-
-<!--
   {% assign destinations = site.html_pages | where: 'content-pages', 'true'  | sort:'nav-order' %}
 
   {% for destination in destinations %}
-<div class=" vpad--lg  {% cycle 'bg--f-lightblue', 'bg--f-sand' %}">
+<div class=" vpad--lg  bg--white">
   <div class="container">
   <div class="bob   {% cycle 'bob--swap', '' %} ">
     <div class="bob__img">
-      <a href="{{site.baseurl}}{{destination.url}}"  class="bg-img bg-img--4-3 bv-photoborder" style="background-image: url('{{site.img}}/content/{{destination.id}}.jpg'); box-shadow: 0px 0px 20px rgba(0,0,0, 0.3);  {% cycle 'transform: rotate(1.5deg);', 'transform: rotate(-1.5deg);' %}" ></a>
+      <a href="{{site.baseurl}}{{destination.url}}"  class="bg-img bg-img--4-3 " style="background-image: url('{{site.img}}/content/{{destination.id}}.jpg');" ></a>
     </div>
     <div class="bob__text">
-      <h3 class="title serif-title text--blue bv-headline-divider ">{{destination.title}}</h3>
-      <p class="text  {% cycle 'text--black ', 'text--white text--normal' %}  text--xl">{{destination.summary}}</p>
+      <h3 class="title title--lg text--blue text--bolder  ">{{destination.title}}</h3>
+      <p class="text  text--lg">{{destination.summary}}</p>
       <div class="space--lg"></div>
-      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--{% cycle 'outline-black', 'outline-white' %}" >Jetzt entdecken</a>
+      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--f-yellow" >Jetzt entdecken</a>
     </div>
   </div>
 </div>
 </div>
-  {% endfor %}-->
+  {% endfor %}

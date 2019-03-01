@@ -6,7 +6,7 @@
   padding: $s2 $s5;
   color: $white;
   font-weight: 700;
-  font-size: $s2/1.5;
+  font-size: $s2/1.8;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: .2em;
@@ -22,14 +22,11 @@
   &--f-blue { background-color: $f-blue; font-size: 13px;
     &:hover { background-color: $f-blue; }}
 
-  &--f-sand { background-color: $f-sand; color: $black;
-    &:hover { background-color: $f-sand; }}
-
   &--f-red { background-color: $f-red;
     &:hover { background-color: $f-red; }}
 
-  &--f-lightblue { background-color: $f-lightblue;
-    &:hover { background-color: $f-lightblue; }}
+  &--f-yellow { background-color: $f-yellow; color: $f-blue; border: 1px solid $f-yellow;
+    &:hover { background-color: $white; color: $f-blue; border: 1px solid $f-blue;}}
 
   &--outline {
     color: inherit;
@@ -63,9 +60,9 @@
     border: 1px solid $black;
     color: $black;
     &:hover {
-      background-color: $f-red;
-      border: 1px solid $f-red;
-      color: $white;
+      background-color: $f-yellow;
+      border: 1px solid $f-blue;
+      color: $f-blue;
     }
   }
   &--outline-orange {

@@ -4,7 +4,7 @@ layout: default
 
 
 
-<div class=" vpad--xxl {{page.colour}} " id="top" >
+<div class=" vpad--xxl bg--f-blue " id="top" >
   <div class="container">
     <div class="width width--xl  text--left text text--white " >
 
@@ -15,7 +15,6 @@ layout: default
 </div>
 
 
-{% if page.page-nav %}{% include nav/page.html %}{% endif %}
 
 
 {% for section in site.data[page.id] %}
@@ -24,7 +23,7 @@ layout: default
       <div class="harvey__img" style="background-image: url('{{site.img}}/content/{{page.id}}/{{section.img}}.jpg');">
 
       </div>
-      <div class="harvey__text boxpad--lg text text--xl  {% cycle 'text--black ', 'text--white ' %}  ">
+      <div class="harvey__text boxpad--lg text text--lg  {% cycle 'text--black ', 'text--white ' %}  ">
         <h2 class="title serif-title bv-headline-divider {% cycle 'text--blue ', 'text--white ' %} ">{{section.title}}</h2>
         <p>{{section.description}}</p>
         <div class="space--lg"></div>
@@ -32,14 +31,3 @@ layout: default
       </div>
     </div>
  {% endfor %}
-
-  <div class=" vpad--xl bg--light " >
-    <div class="container">
-      <div class="width width--xl text--center " >
-
-           <a href="#top"  ><div class="bv-btn-up"></div></a>
-         <div class="space--md"></div>
-      </div>
-    </div>
-  </div>
-{% include offer/regions-offers.html %}

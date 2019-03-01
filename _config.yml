@@ -1,18 +1,18 @@
 # Site settings
-title: Florida
+title: Barbados
 client:
-  name: Unentdeckte Schätze
-  link: "https://www.visitflorida.com/de.html"
-core-se-link: https://www.secretescapes.de/aktuelle-angebote?utm_source=SE&utm_medium=hub&utm_campaign=florida_DE_2019
+  name: Lorem ipsum dolor sit
+  link: "http://bit.ly/2BYpVBV"
+core-se-link: https://www.secretescapes.de/aktuelle-angebote?utm_source=SE&utm_medium=hub&utm_campaign=barbados_DE_2019
 description: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/de/florida" # the subpath of your site, e.g. /blog/
-img:     "/de/florida/_assets/img"
-css:     "/de/florida/_assets/css"
-js:      "/de/florida/_assets/js"
+baseurl: "/de/barbados" # the subpath of your site, e.g. /blog/
+img:     "/de/barbados/_assets/img"
+css:     "/de/barbados/_assets/css"
+js:      "/de/barbados/_assets/js"
 
 
 # Build settings

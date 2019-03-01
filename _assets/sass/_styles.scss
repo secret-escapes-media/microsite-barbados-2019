@@ -53,12 +53,13 @@ $circle-height: 3.4rem;
 }
 
 .bv-headline-divider::after {
-    content: ('========');
+    content: ('~~~');
     display: block;
     //color: $f-blue;
     font-size: $s5;
-    letter-spacing: -8px;
-    margin: 5px 0 -8px 2px;
+    font-weight: bold;
+    //letter-spacing: -8px;
+    margin: 6px 0 -4px 1px;
   }
 
 .bv-lineheight{

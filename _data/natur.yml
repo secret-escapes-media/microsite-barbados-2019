@@ -1,0 +1,35 @@
+- id: one
+  title: Der wilde Atlantik
+  img: bg-img1
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+
+
+
+################################################################################
+
+
+- id: two
+  title: Das Süd-West Paradies
+  img: bg-img2
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+
+
+
+
+################################################################################
+
+
+- id: three
+  title: Nordküste
+  img: bg-img3
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+
+
+
+################################################################################
+
+
+- id: four
+  title: Südküste
+  img: bg-img4
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "

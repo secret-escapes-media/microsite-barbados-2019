@@ -1,0 +1,14 @@
+- id: one
+  title: "Hochzeiten"
+  img: bg-img1
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+
+
+
+################################################################################
+
+
+- id: two
+  title:  "Flitterwochen"
+  img: bg-img2
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
