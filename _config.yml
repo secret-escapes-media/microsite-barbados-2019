@@ -1,11 +1,11 @@
 # Site settings
 title: Barbados
 client:
-  name: Lorem ipsum dolor sit
+  name: Karibischer Sehnsuchtsort
   link: "http://bit.ly/2BYpVBV"
 core-se-link: https://www.secretescapes.de/aktuelle-angebote?utm_source=SE&utm_medium=hub&utm_campaign=barbados_DE_2019
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  An was denken Sie beim Namen Barbados? Karibisches Meer, Sonne, Rhythmen und Rum fallen einem sofort ein. Doch die Insel hat noch vieles mehr zu bieten und ist mit über 92 km unberührter, idyllischer Küste ein erstklassiges Traumziel.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site

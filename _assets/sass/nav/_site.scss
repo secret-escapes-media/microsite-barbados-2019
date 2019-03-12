@@ -1,7 +1,7 @@
 // styles for the microsite nav
 
 $site-nav-height:    60px;
-$site-nav-height-sm: 44px;
+$site-nav-height-sm: 60px;
 $nav-width-bp:       860px;
 $nav-color:          $f-blue;
 
@@ -40,7 +40,7 @@ $nav-color:          $f-blue;
     bottom: 0;
     z-index: $z-nav-upper;
     width: $site-nav-height-sm;
-    background-image: url("../img/icons/nav-arrow-footer.svg");
+    background-image: url("../img/icons/nav-arrow.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: $site-nav-height-sm auto;
@@ -96,8 +96,8 @@ $nav-color:          $f-blue;
     color: rgba($white,1);
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { color: rgba($f-blue,1);  background-color: rgba($white,1);  }//border-bottom: 2px solid $f-blue; padding-top:2px; color: rgba($f-blue,1);
-    .no-touch &:hover {  color: rgba($f-blue,1);  background-color: rgba($grey-lightest,1);}
+    &.is-current      { color: rgba($f-blue,1);  background-color: rgba($f-yellow,1);  }//border-bottom: 2px solid $f-blue; padding-top:2px; color: rgba($f-blue,1);
+    .no-touch &:hover {  color: rgba($f-blue,1);  background-color: rgba($f-yellow,1);}
     @include bp($nav-width-bp){
       padding-left: $s0;
       padding-right: $s0;
