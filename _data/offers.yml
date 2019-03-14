@@ -1,39 +1,21 @@
-- title: "Here goes title"
-  id: sarasota
-  location: Here goes location
-  description: Here goes description
-  price: 85
-  price-description: pro Unterkunft pro Nacht
-  saved: 62
-  image: img.jpg
-  link: #
+- title: "Traumurlaub unter karibischer Sonne"
+  id: Hotel-Beach-View
+  location: Hotel Beach View, St. James, Barbados
+  description: Inkl. Frühstücksmenü, 1 Flasche Wein & Flughafentransfers
+  price: 79
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 50
+  flight-tag: #
+  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/90565/ede592dd_ab73_4488_ab5f_f2119887337b.jpg"
+  link: "http://bit.ly/2ClOuZP"
 
-- title: "Here goes title"
+- title: "Genuss & Erholung am Karibikstrand"
   id: naples
-  location: Here goes location
-  description: Inkl. Frühstück oder Halbpension &amp; Begrüßungsgetränk
-  price: 105
-  price-description: pro Zimmer pro Nacht
-  saved: 71
-  image: img.jpg
-  link: #
-
-- title: "Here goes title"
-  id: florida-keys
-  location: Here goes location
-  description: Here goes description
-  price: 229
-  price-description: pro Suite pro Nacht
-  saved: 46
-  image: img.jpg
-  link: #
-
-- title: "Here goes title"
-  id: stpete-clearwater
-  location: Here goes location
-  description: Here goes description
-  price: 118
-  price-description: pro Zimmer pro Nacht
-  saved: 36
-  image: img.jpg
-  link: #
+  location: Sugar Bay Barbados, Bridgetown, Barbados
+  description: Unbeschwertes Karibikflair mit Pools und Meer – inkl. All-inclusive & Extras
+  price: 147
+  price-description: pro Person - basierend auf 2 Personen
+  saved: 21
+  flight-tag: #
+  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/89264/f41b1071_85e0_414b_8a2d_c46317ec09fe.jpg"
+  link: "http://bit.ly/2O52c8c"
