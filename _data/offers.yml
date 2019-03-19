@@ -9,13 +9,13 @@
   img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/90565/ede592dd_ab73_4488_ab5f_f2119887337b.jpg"
   link: "http://bit.ly/2ClOuZP"
 
-- title: "Genuss & Erholung am Karibikstrand"
-  id: naples
-  location: Sugar Bay Barbados, Bridgetown, Barbados
-  description: Unbeschwertes Karibikflair mit Pools und Meer – inkl. All-inclusive & Extras
-  price: 147
+- title: "5*-Glamour & Panorama-Meerblick auf Barbados"
+  id: Royal-Pavilion
+  location: Fairmont Royal Pavilion, Porters, Barbados
+  description: Luxuriöse Auszeit im eleganten Strandresort – inkl. Flügen, Privattransfers & Frühstück
+  price: 1885
   price-description: pro Person - basierend auf 2 Personen
-  saved: 21
-  flight-tag: #
-  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/89264/f41b1071_85e0_414b_8a2d_c46317ec09fe.jpg"
-  link: "http://bit.ly/2O52c8c"
+  saved: 35
+  flight-tag: true
+  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/90129/2d6501df_e457_4351_9e01_92f50f65047f.jpg"
+  link: "http://bit.ly/2TSqLdL"
