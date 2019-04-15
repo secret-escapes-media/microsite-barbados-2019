@@ -1,21 +1,22 @@
-- title: "Traumurlaub unter karibischer Sonne"
-  id: Hotel-Beach-View
-  location: Hotel Beach View, St. James, Barbados
-  description: Inkl. Frühstücksmenü, 1 Flasche Wein & Flughafentransfers
-  price: 79
+
+- title: "Barbados' sonnige Inselidylle"
+  id: Dover-Beach-Hotel
+  location: Dover Beach Hotel, St. Lawrence Gap, Barbados
+  description:  Karibischer Badeurlaub mit Studio und Balkon - inkl. spätem Check-out
+  price: 39
   price-description: pro Person - basierend auf 2 Personen
   saved: 50
   flight-tag: #
-  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/90565/ede592dd_ab73_4488_ab5f_f2119887337b.jpg"
-  link: "http://bit.ly/2ClOuZP"
+  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/92069/86f8b90a_f293_43fe_a5b3_1225e3f1e604.jpg"
+  link: "http://bit.ly/2Z2RT9t"
 
-- title: "5*-Glamour & Panorama-Meerblick auf Barbados"
-  id: Royal-Pavilion
-  location: Fairmont Royal Pavilion, Porters, Barbados
-  description: Luxuriöse Auszeit im eleganten Strandresort – inkl. Flügen, Privattransfers & Frühstück
-  price: 1885
+- title: "Karibik-Traum an der Platinküste von Barbados"
+  id: Tamarind-legant-Hotels
+  location: Tamarind by Elegant Hotels, Paynes Bay, St&nbsp;James, Barbados
+  description:  Unter Palmen – inkl. Frühstücksbuffet, Wassersportangebot & Extras
+  price: 106
   price-description: pro Person - basierend auf 2 Personen
-  saved: 35
-  flight-tag: true
-  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/90129/2d6501df_e457_4351_9e01_92f50f65047f.jpg"
-  link: "http://bit.ly/2TSqLdL"
+  saved: 34
+  flight-tag: #
+  img: "https://d1x3cbuht6sy0f.cloudfront.net/sales/91351/c54ba63f_1759_4a05_8732_a8e6b84c801d.jpg"
+  link: "http://bit.ly/2OE7JTa"
