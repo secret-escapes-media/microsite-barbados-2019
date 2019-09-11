@@ -14,7 +14,7 @@
   &--italic       { font-style: italic; }
   &--light        { font-weight: 300; }
   &--normal       { font-weight: 400; }
-  &--medium         { font-weight: 500; }
+  &--medium       { font-weight: 500; }
   &--bold         { font-weight: 600; }
   &--bolder       { font-weight: 700; }
   &--wide-kern    { letter-spacing: .25em; }
@@ -33,10 +33,12 @@
 
   // alignment
   &--left   { text-align: left; }
+  &--justify   { text-align: justify; }
   &--right  { text-align: right; }
   &--center { text-align: center; }
   @include bp($lg) {
     &--bp-left   { text-align: left; }
+    &--bp-justify   { text-align: justify; }
     &--bp-right  { text-align: right; }
     &--bp-center { text-align: center; }
   }

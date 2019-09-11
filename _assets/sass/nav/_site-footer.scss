@@ -10,7 +10,6 @@ $footer-nav-color: $grey-darkest;
   &--footer &__link {
     color: $white;
     &.is-current      { background-color: rgba($footer-nav-color,1); }
-    .no-touch &:hover {
-      color: $white; background-color: rgba($black,.75); }
+    .no-touch &:hover { color: $white; background-color: rgba($black,.75); }
   }
 }
