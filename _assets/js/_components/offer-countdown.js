@@ -15,10 +15,10 @@ $('.js-offer-expires').each(function() {
       $(this).remove();
     } else if (event.offset.totalDays === 0) {
       // there is 0 days left, just hours, so ends today
-      $(this).html(event.strftime('Scade <strong>oggi</strong>'));
+      $(this).html(event.strftime("Se termine <strong>aujourd'hui</strong>"));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Scade tra <strong>%-D giorni</strong>'));
+      $(this).html(event.strftime('Se termine dans <strong>%-D jours</strong>'));
     }
   });
 });
