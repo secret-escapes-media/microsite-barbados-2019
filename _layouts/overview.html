@@ -5,8 +5,8 @@ layout: default
 
 <div class=" vpad--xl {{page.colour}} " id="top" >
   <div class="container">
-    <div class="width width--xl  text--left text text--white " >
-       <div class="text--lg">{{page.intro}}</div>
+    <div class="width width--xl text--center text text--white " >
+       <div class="text--md">{{page.intro}}</div>
        <div class="space--md"></div>
     </div>
   </div>
@@ -30,7 +30,7 @@ layout: default
       <div class="space--xs"></div>
       <p class="text  text--lg">{{destination.summary}}</p>
       <div class="space--lg"></div>
-      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--f-yellow" >Jetzt entdecken</a>
+      <a href="{{site.baseurl}}{{destination.url}}" class="btn btn--f-yellow" >Scopri di più</a>
     </div>
   </div>
 </div>
@@ -39,5 +39,4 @@ layout: default
 
 {% endfor %}
 
-
-{% include page/condor.html %}
+<div class="space--lg"></div>

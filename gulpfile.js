@@ -27,7 +27,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/2019/barbados': '_site/'
+        '/2019/barbados-it': '_site/'
       }
     }
   });
