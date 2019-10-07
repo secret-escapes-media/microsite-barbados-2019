@@ -1,7 +1,7 @@
 # Site settings
 title: Barbados
 client:
-  name: Barbados 
+  name: Barbados
   link: "https://www.visitbarbados.org/it/"
 
 core-se-link: https://it.secretescapes.com/offerte-in-corso?utm_source=SE&utm_medium=hub&utm_campaign=barbados_IT
@@ -10,10 +10,10 @@ description: >
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/2019/barbados-it" # the subpath of your site, e.g. /blog/
-img:     "/2019/barbados-it/_assets/img"
-css:     "/2019/barbados-it/_assets/css"
-js:      "/2019/barbados-it/_assets/js"
+baseurl: "/it/barbados" # the subpath of your site, e.g. /blog/
+img:     "/it/barbados/_assets/img"
+css:     "/it/barbados/_assets/css"
+js:      "/it/barbados/_assets/js"
 
 
 # Build settings
