@@ -113,29 +113,29 @@ $offer-max-width: 600px;
       max-width: 100px;
       line-height: 1;
     }
-    // @include bp($md) {
-    //   flex-direction: row;
-    //   margin-right: $s0;
-    //   padding-right: $s0;
-    //   &-percent {
-    //     margin-top: 0;
-    //     margin-left: $s-6;
-    //   }
-    // }
-    // @include bp($xl) {
-    //   flex-direction: column;
-    //   &-percent {
-    //     margin-top: $s-6;
-    //     margin-left: 0;
-    //   }
-    // }
-    // @include bp($xxl) {
-    //   flex-direction: row;
-    //   &-percent {
-    //     margin-top: 0;
-    //     margin-left: $s-6;
-    //   }
-    // }
+    @include bp($md) {
+      flex-direction: row;
+      margin-right: $s0;
+      padding-right: $s0;
+      &-percent {
+        margin-top: 0;
+        margin-left: $s-6;
+      }
+    }
+    @include bp($xl) {
+      flex-direction: column;
+      &-percent {
+        margin-top: $s-6;
+        margin-left: 0;
+      }
+    }
+    @include bp($xxl) {
+      flex-direction: row;
+      &-percent {
+        margin-top: 0;
+        margin-left: $s-6;
+      }
+    }
   }
   &__details {
     flex-grow: 1;
