@@ -27,7 +27,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/2019/barbados-fr': '_site/'
+        '/fr/barbados': '_site/'
       }
     }
   });
@@ -77,7 +77,7 @@ function buildJsMain(cb) {
 
     // plugins
     './node_modules/jquery/dist/jquery.min.js',
-    './node_modules/jquery-countdown/dist/jquery.countdown.min.js',
+    // './node_modules/jquery-countdown/dist/jquery.countdown.min.js',
     // './node_modules/waypoints/lib/jquery.waypoints.min.js',
 
     // custom js - with on doc ready wrapper
@@ -85,9 +85,9 @@ function buildJsMain(cb) {
 
     // components
     './_assets/js/_components/standard.js',
-    './_assets/js/_components/offer-countdown.js',
-    './_assets/js/_components/modal.js',
-    './_assets/js/_components/sticky-nav.js',
+    // './_assets/js/_components/offer-countdown.js',
+    // './_assets/js/_components/modal.js',
+    // './_assets/js/_components/sticky-nav.js',
 
     // custom js for project
     './_assets/js/main.js',
@@ -157,7 +157,6 @@ function cleanSass() {
 function compressSass() {
   return gulp.src('./_site/_assets/css/**/*.css')
   .pipe(autoprefix({
-      browsers: ['last 3 versions', 'iOS 7'],
       cascade: false
     }))
   .pipe(cssmin())

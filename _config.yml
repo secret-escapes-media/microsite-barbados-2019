@@ -10,10 +10,10 @@ description: >
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/2019/barbados-fr" # the subpath of your site, e.g. /blog/
-img:     "/2019/barbados-fr/_assets/img"
-css:     "/2019/barbados-fr/_assets/css"
-js:      "/2019/barbados-fr/_assets/js"
+baseurl: "/fr/barbados" # the subpath of your site, e.g. /blog/
+img:     "/fr/barbados/_assets/img"
+css:     "/fr/barbados/_assets/css"
+js:      "/fr/barbados/_assets/js"
 
 
 # Build settings
