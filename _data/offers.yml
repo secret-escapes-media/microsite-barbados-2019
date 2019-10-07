@@ -1,9 +1,28 @@
-- title: South-Beach-Style auf Barbados
-  location: The SoCo Hotel, Bridgetown, Barbados
-  description: Boutique-Strandhotel mit Privatstrand – inkl. All-inclusive
-  price: 262
-  price-description: pro Zimmer pro Nacht
-  saved: 40
-  expires: 2019/09/16
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/96595/b686da1e_0ada_4301_8492_8027550c4992.jpg?auto=format,compress
-  link: http://bit.ly/2ZvkBnm
+- title: Vacanza da sogno sotto il sole di Barbados
+  location: Radisson Aquatica Resort 4*, Bridgetown - Barbados
+  description: Regalati un viaggio indimenticabile sull’isola di Barbados
+  price: 939
+  price-description: a persona. Basato su 2 persone per 5 notti
+  expires: 2019/10/16
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102892/2bda4c3d_5a71_4d1a_98e5_0ceacd739c3b.jpg?auto=format,compress
+  link: https://it.secretescapes.com/vacanza-da-sogno-sotto-il-sole-di-barbados-radisson-aquatica-resort-4-star-italia/sale
+
+- title: Fairmont Royal Pavilion
+  location: St. James, Barbados
+  description: Lusso e relax in un hotel affacciato sul Mar dei Caraibi
+  price: 404
+  price-description: per camera per notte
+  saved: 50
+  expires: 2019/10/14
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/83575/7f795257_fbaa_42d4_83be_e3277988c89c.jpg?auto=format,compress
+  link: https://it.secretescapes.com/fairmont-royal-pavilion-st-james-barbados-italia/sale
+
+- title: Turtle Beach by Elegant Hotels
+  location: Barbados, Caraibi
+  description: Barbados all inclusive in un resort fronte spiaggia, con golf e spa
+  price: 361
+  price-description: per suite per notte
+  saved: 22
+  expires: 2019/10/21
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/93918/f49fe0eb_0987_436d_93fe_ccab24cf090c.jpg?auto=format,compress
+  link: https://it.secretescapes.com/turtle-beach-by-elegant-hotels-barbados-caraibi-italia/sale
