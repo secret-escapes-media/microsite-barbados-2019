@@ -1,21 +1,5 @@
-- title: Vacanza da sogno sotto il sole di Barbados
-  location: Radisson Aquatica Resort 4*, Bridgetown - Barbados
-  description: Regalati un viaggio indimenticabile sull’isola di Barbados
-  price: 939
-  price-description: a persona. Basato su 2 persone per 5 notti
-  expires: 2019/10/16
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102892/2bda4c3d_5a71_4d1a_98e5_0ceacd739c3b.jpg?auto=format,compress
-  link: https://it.secretescapes.com/vacanza-da-sogno-sotto-il-sole-di-barbados-radisson-aquatica-resort-4-star-italia/sale
 
-- title: Fairmont Royal Pavilion
-  location: St. James, Barbados
-  description: Lusso e relax in un hotel affacciato sul Mar dei Caraibi
-  price: 404
-  price-description: per camera per notte
-  saved: 50
-  expires: 2019/10/14
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/83575/7f795257_fbaa_42d4_83be_e3277988c89c.jpg?auto=format,compress
-  link: https://it.secretescapes.com/fairmont-royal-pavilion-st-james-barbados-italia/sale
+
 
 - title: Turtle Beach by Elegant Hotels
   location: Barbados, Caraibi
@@ -36,3 +20,13 @@
   expires: 2019/10/28
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/103312/5963cf98_cdb7_4e66_b3fc_5dcbec10d93b.jpg?auto=format,compress
   link: https://it.secretescapes.com/tamarind-by-elegant-hotels-barbados-caraibi-italia/sale
+
+- title: Fuga caraibica sull’isola di Barbados
+  location: Sunbay Hotel, Barbados
+  description: Vola nella splendida Barbados per una vacanza di sole e relax
+  price: 685
+  price-description: a persona. Basato su 2 persone per 3 notti
+  saved: 0
+  expires: 2019/10/30
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103651/b2c2a80b_21ec_4667_a376_6b7dd83515d1.jpg?auto=format,compress
+  link: https://it.secretescapes.com/fuga-caraibica-sullisola-di-barbados-sunbay-hotel-barbados-italia/sale
