@@ -1,15 +1,6 @@
 
 
 
-- title: 5 nuits et plus en formule tout compris au Turtle Beach All Inclusive by Elegant Hotel 4*
-  location: Dover, Christ Church, La Barbade
-  description: Formule tout compris incluse dans ce 4* au bord de la mer à La Barbade
-  price: 361
-  price-description: par suite par nuit
-  saved: 22
-  expires: 2019/10/21
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/93918/f49fe0eb_0987_436d_93fe_ccab24cf090c.jpg?auto=format,compress
-  link: https://www.evasionssecretes.fr/turtle-beach-by-elegant-hotels-dover-la-barbade-fr/sale
 
 - title: 5 nuits et plus en formule tout compris au Tamarind by Elegant Hotels 4*
   location: Saint James, La Barbade
@@ -18,7 +9,7 @@
   price-description: par suite par nuit
   saved: 50
   expires: 2019/10/28
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/91351/c4351091_9311_409d_a3bb_ff391f8aadaa.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103312/5963cf98_cdb7_4e66_b3fc_5dcbec10d93b.jpg?auto=format,compress
   link: https://www.evasionssecretes.fr/tamarind-by-elegant-hotels-saint-james-la-barbade-fr/sale
 
 - title: Farniente sous le soleil de la Barbade dans un 4* en bord de mer
@@ -26,7 +17,7 @@
   description: Échappée barbadienne des plus relaxantes face à la mer des Caraïbes avec vols inclus
   price: 1029
   price-description: par personne. Basé sur 2 personnes pour 5 nuits
-  saved: 0
+  saved:
   expires: 2019/10/27
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/101821/0afa8b47_56ed_4d21_9d5a_7dd390e988f9.jpg?auto=format,compress
   link: https://www.evasionssecretes.fr/ocean-two-resort-christ-church-la-barbade-fr/sale
